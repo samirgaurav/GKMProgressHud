@@ -1,0 +1,6 @@
+use_frameworks!
+target 'GKMProgressHud_Tests' do
+  pod 'GKMProgressHud', :path => '../'
+  
+  
+end

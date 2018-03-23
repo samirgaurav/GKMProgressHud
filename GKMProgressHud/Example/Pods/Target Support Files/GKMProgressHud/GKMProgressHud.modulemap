@@ -1,0 +1,6 @@
+framework module GKMProgressHud {
+  umbrella header "GKMProgressHud-umbrella.h"
+
+  export *
+  module * { export * }
+}
