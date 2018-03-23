@@ -24,8 +24,8 @@ TODO: GKMProgressHud is a customizable progress bar with four small circle anima
   s.homepage         = 'https://github.com/samirgaurav@gmail.com/GKMProgressHud'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'samirgaurav@gmail.com' => 'gaurav.maurya@decimal.co.in' }
-  s.source           = { :git => 'https://github.com/samirgaurav@gmail.com/GKMProgressHud.git', :tag => s.version.to_s }
+  s.author           = { 'Gaurav Maurya' => 'samirgaurav@gmail.com' }
+  s.source           = { :git => 'https://github.com/samirgaurav/GKMProgressHud.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.3'
