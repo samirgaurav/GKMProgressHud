@@ -15,6 +15,7 @@ public class ActivityIndicator: UIView {
    private var titleImage = UIImageView()
     // as always
    private var willDismissOnTouch:Bool = false
+    // for new branch
     private let originView = UIView()
     override public func awakeFromNib() {
         
