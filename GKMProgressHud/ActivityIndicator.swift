@@ -17,6 +17,7 @@ public class ActivityIndicator: UIView {
    private var willDismissOnTouch:Bool = false
     // for new branch
     private let originView = UIView()
+     // for new branch
     override public func awakeFromNib() {
         
         super.awakeFromNib()
