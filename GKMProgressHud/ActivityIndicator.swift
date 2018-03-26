@@ -18,6 +18,7 @@ public class ActivityIndicator: UIView {
     // for new branch
     private let originView = UIView()
      // for new branch
+    // for new branch agian
     override public func awakeFromNib() {
         
         super.awakeFromNib()
